@@ -284,7 +284,7 @@ Integração com sistemas de RH
 
 ### 👥 Equipe
 
-# Desenvolvido por: Gabriel Lopes Magon Carvalho, Luiz Carlos Sartoreli Neto, Miguel Fraquilino Castro Leite, Matheus Bustamante Battiato 
+## Desenvolvido por: Gabriel Lopes Magon Carvalho, Luiz Carlos Sartoreli Neto, Miguel Fraquilino Castro Leite, Matheus Bustamante Battiato 
 Empresa: Eurofarma
 Programa: Enterprise Challenge - FIAP
 Data de Conclusão: [27/10/2025]
@@ -322,3 +322,4 @@ dist/
 .DS_Store
 
 Thumbs.db
+
